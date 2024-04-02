@@ -2,8 +2,8 @@
 <LanguageData>
 
   <SMN_BlankPawnFirstName>404</SMN_BlankPawnFirstName>
-  <SMN_BlankPawnNickname>Blank</SMN_BlankPawnNickname>
-  <SMN_BlankPawnLastName>Error</SMN_BlankPawnLastName>
+  <SMN_BlankPawnNickname>Заготовка</SMN_BlankPawnNickname>
+  <SMN_BlankPawnLastName>Ошибка</SMN_BlankPawnLastName>
 
   <SMN_IdentifySurrogate>Нацелиться на суррогата без хоста</SMN_IdentifySurrogate>
 

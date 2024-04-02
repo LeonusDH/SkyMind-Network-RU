@@ -14,9 +14,9 @@
 
   <!-- Player hacking -->
   <SMN_HackOperationFailed>В ходе операции не удалось взломать систему безопасности выбранной фракции. Никаких последствий не ожидается.</SMN_HackOperationFailed>
-  <SMN_DisruptorHackSuccess>Срыв успешен. Вражеские подразделения ослаблены.</SMN_DisruptorHackSuccess>
+  <SMN_DisruptorHackSuccess>Сбой прошёл успешно. Вражеские подразделения ослаблены.</SMN_DisruptorHackSuccess>
 
-  <SMN_NoArrival>Ничего не было отправлено по перепутанным координатам до того, как фракция перезагрузила свою систему наведения. На этот раз им повезло.</SMN_NoArrival>
+  <SMN_NoArrival>По перепутанным координатам ничего не было отправлено до того, как фракция перезагрузила систему наведения. На этот раз им повезло.</SMN_NoArrival>
 
   <!-- Link -->
   <SMN_NotUncontrolledSurrogate>{0} не готов к удалённому управлению. Только неконтролируемые суррогаты подходящие цели.</SMN_NotUncontrolledSurrogate>
